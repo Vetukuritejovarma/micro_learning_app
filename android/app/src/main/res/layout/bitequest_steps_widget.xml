@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/widget_steps_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BiteQuest Path"
+        android:textColor="#1B1B1F"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:id="@+id/widget_progress"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:layout_marginTop="8dp"
+        android:max="100"
+        android:progress="0"
+        android:progressTint="#1B5EFF"
+        android:backgroundTint="#E6E6EC" />
+
+    <TextView
+        android:id="@+id/widget_steps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="#6B6B75"
+        android:textSize="12sp"
+        android:paddingTop="8dp" />
+
+</LinearLayout>

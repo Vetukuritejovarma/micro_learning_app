@@ -1,0 +1,2 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_shortcut_lesson,@drawable/ic_shortcut_quiz,@drawable/ic_shortcut_progress,@drawable/ic_shortcut_goal,@drawable/ic_shortcut_reminder" />

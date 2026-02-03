@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0E1A2C</color>
+    <color name="ic_launcher_background_streak">#FF6B2C</color>
+    <color name="ic_launcher_background_xp">#FFD24A</color>
+    <color name="ic_launcher_background_quiz">#6A5CFF</color>
+    <color name="ic_launcher_background_night">#0B1020</color>
+    <color name="ic_launcher_background_goal">#2EC4B6</color>
+</resources>
